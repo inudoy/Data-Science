@@ -1,9 +1,9 @@
 ## Data Science Task Catagories
 ### Data Management:
-1.Mysql:Popular open source relational data base works on query language (https://www.mysql.com/)
-2.PostgreSql:It is also a relational Database(https://www.postgresql.org/)
-3.Mongodb:It is a non-relational data base (https://www.mongodb.com/)
-4.Apache Casendra :  Cassandra is an open-source NoSQL data storage system that leverages a distributed architecture to enable high availability and reliability.(https://cassandra.apache.org/_/index.html)
+1.Mysql:Popular open source relational data base works on query language (https://www.mysql.com/)<br>
+2.PostgreSql:It is also a relational Database(https://www.postgresql.org/)<br>
+3.Mongodb:It is a non-relational data base (https://www.mongodb.com/)<br>
+4.Apache Casendra :  Cassandra is an open-source NoSQL data storage system that leverages a distributed architecture to enable high availability and reliability.(https://cassandra.apache.org/_/index.html)<br>
 ### Data Integration and Transformation:
 ### Data Visulization:
 ### Data Building:
