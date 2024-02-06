@@ -21,12 +21,12 @@
 
 ### Open Source Tools for Data Integration and Transformation:
 1.Kubeflow : The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. (https://www.kubeflow.org/)<br>
-2.Apache Airflow
-3.Apache Kafka  - Apache Kafka Explained - AWS
+2.Apache Airflow<br>
+3.Apache Kafka  - Apache Kafka Explained - 
 Kafka is primarily used to build real-time streaming data pipelines and applications that adapt to the data streams(https://kafka.apache.org/)<br>
-4.Apache nifi
+4.Apache nifi<br>
 5.Spark Sql(https://spark.apache.org/docs/2.2.1/sql-programming-guide.html)<br>
-6.Node Red ( can be used in rasberry PI)
+6.Node Red ( can be used in rasberry PI)<br>
 
 ### Open Source Tools for Data Visualiztion:
 1. Pixiedust
