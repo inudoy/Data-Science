@@ -6,9 +6,26 @@
 4.Apache Casendra :  Cassandra is an open-source NoSQL data storage system that leverages a distributed architecture to enable high availability and reliability.(https://cassandra.apache.org/_/index.html)<br>
 5.HADDOP : HDFS (Hadoop Distributed File System) is the primary storage system used by Hadoop applications. This open source framework works by rapidly transferring data between nodes. It's often used by companies who need to handle and store big data.(https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)<br>
 ### Data Integration and Transformation:
+1.Spark: Apache Spark is an open-source, distributed processing system used for big data workloads(https://spark.apache.org/)<br>
+2.Kubeflow:Kubeflow is a platform for data scientists who want to build and experiment with ML pipelines. (https://www.kubeflow.org/)<br>
+3.Node-red: Node-RED provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes(https://nodered.org/)<br>
+4.kafka:Kafka is primarily used to build real-time streaming data pipelines and applications that adapt to the data streams. It combines messaging, storage, and stream processing to allow storage and analysis of both historical and real-time data.(https://kafka.apache.org/)<br>
 ### Data Visulization:
+1.Tableaue<br>
+2.PowerBi (these 2 are most used)<br>
+3.pixiedust<br>
+4.Kibana<br>
+5.Hue : it is used on apache Hadoop<br>
+
+
 ### Data Building:
 ### Model Deployment:
+1.seldon<br>
+2.kubernets<br>
+3.Mleap<br>
+4.TensorflowLite<br>
+5.Tensorflowserving<br>
+6.Tensorflow.js<br>
 ### Model Monitoring and Assesment:
 
 ## Data Science Tasks are Suported By :
